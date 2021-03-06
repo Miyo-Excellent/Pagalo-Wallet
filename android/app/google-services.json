@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "538707777133",
+    "project_id": "pagalo-wallet",
+    "storage_bucket": "pagalo-wallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538707777133:android:45287ff2c619fc214d9164",
+        "android_client_info": {
+          "package_name": "com.michellExcellent.pagalo_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538707777133-rdhns87s6ck5ntna0lst2cr3rkqu7nhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.michellExcellent.pagalo_wallet",
+            "certificate_hash": "adec26a4daf976e728a0ef9217e49529f84e8151"
+          }
+        },
+        {
+          "client_id": "538707777133-9bj2eapoetb4e0ct2n5ob71b45elhfbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDfVxu4YJv6BmtPfF75fLvxrPVM4ab210"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538707777133-9bj2eapoetb4e0ct2n5ob71b45elhfbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
