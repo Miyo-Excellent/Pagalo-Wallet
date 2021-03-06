@@ -60,3 +60,14 @@ Funcionalmente la aplicación debe:
 | Post Condiciones | Generación de un código QR que servirá para compartir a otras personas con propósito de facilitar la información de la transferencia.                                                                                                                                                                                                                                               |
 | Post Condiciones | Lectura de códigos QR para generar transferencias desde mis cuentas propias a otras cuentas que no necesariamente deben estar inscritas                                                                                                                                                                                                                                             |
 | restricciones    | NA                                                                                                                                                                                                                                                                                                                                                                                  |
+
+### Implementaciones realizadas hasta el momento.
+
+| Screens          | UI | Bloc | Modelos | Repositorios | Lógica |
+|------------------|----|------|---------|--------------|--------|
+| Dashboard        | Yes|  Yes |    Yes  |      Yes     |   No   |
+| Landing          | Yes|  Yes |    Yes  |      Yes     |   No   |
+| Navigation       | Yes|  Yes |    Yes  |      Yes     |   Yes  |
+| Sign In          | Yes|  Yes |    Yes  |      Yes     |   No   |
+| Sign Up          | Yes|  Yes |    Yes  |      Yes     |   No   |
+| Verify           | Yes|  Yes |    Yes  |      Yes     |   No   |
