@@ -64,7 +64,7 @@ class GoogleAuthHelper {
 
       assert(_currentUser.uid != _user.uid);
 
-      return 'Ops... login with Google has problems now.';
+      return 'Ops... sign in with Google has problems now.';
     } catch (error) {
       print(error);
     }

@@ -1,10 +1,10 @@
 # Core Features
-**Core features** like Login/auth, walkthrough screens (Screens which are only visible at after the install only), application setting features are the core features that should be added in a folder **Core.**
+**Core features** like Sign In/auth, walkthrough screens (Screens which are only visible at after the install only), application setting features are the core features that should be added in a folder **Core.**
 
 # Core Folder
 Contains the following folders:
 
-1. **auth:** Auth folder must contain the features: Register, Login, Forgot password.
+1. **auth:** Auth folder must contain the features: Register, Sign In, Forgot password.
 
 2. **models:** Models folder must contain all core models.
 
